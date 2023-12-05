@@ -1,4 +1,4 @@
-## Hi, my name is Lael Martinez, I'm passionate about technology, programming, and music! Welcome to my Git!
+## Hi, my name is Lael Martinez, I'm passionate about technology, programming, and Jazz! Welcome to my Git!
 <div align="center">
   <a href="https://github.com/LaelMartinez">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LaelMartinez&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>    
